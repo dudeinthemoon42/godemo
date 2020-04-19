@@ -1,4 +1,11 @@
-﻿import React from "react";
+﻿/**
+ ***************************************
+    Index: Function Component
+    - Serves as the Home Index router
+ * *************************************
+ * */
+
+import React from "react";
 import { Router, Route, Switch, Link, NavLink } from "react-router-dom";
 import * as createHistory from "history";
 import Home from "../components/Home";

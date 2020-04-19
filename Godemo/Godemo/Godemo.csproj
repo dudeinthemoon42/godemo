@@ -8,7 +8,12 @@
     <None Remove="godemo-client\src\components\Form.tsx" />
     <None Remove="godemo-client\src\components\Home.tsx" />
     <None Remove="godemo-client\src\components\WeatherDetails.tsx" />
+    <None Remove="godemo-client\src\Constants.ts" />
     <None Remove="godemo-client\src\router\index.tsx" />
+    <None Remove="godemo-client\src\types\City.ts" />
+    <None Remove="godemo-client\src\types\Country.ts" />
+    <None Remove="godemo-client\src\types\CurrentCondition.ts" />
+    <None Remove="godemo-client\src\types\Weather.ts" />
   </ItemGroup>
 
   <ItemGroup>
